@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hyunacademy.github.io/blog/markdown-formatting-demo/</loc>
-    <lastmod>2020-09-13T12:49:27+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hyunacademy.github.io/</loc>
-    <lastmod>2020-09-13T12:49:27+06:00</lastmod>
+    <loc>https://hyunacademy.github.io/blog/2021%EB%85%84%EB%8F%84-%EB%B4%84%EB%B0%98-%EA%B0%9C%EA%B0%95-%EC%95%88%EB%82%B4/</loc>
+    <lastmod>2021-01-11T12:49:27+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://hyunacademy.github.io/blog/</loc>
+    <lastmod>2021-01-11T12:49:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hyunacademy.github.io/</loc>
+    <lastmod>2021-01-11T12:49:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hyunacademy.github.io/blog/markdown-formatting-demo/</loc>
     <lastmod>2020-09-13T12:49:27+06:00</lastmod>
   </url>
   
@@ -38,47 +43,7 @@
   </url>
   
   <url>
-    <loc>https://hyunacademy.github.io/blog/designer-conference-at-florida-2020/</loc>
-    <lastmod>2020-07-13T13:06:26+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hyunacademy.github.io/blog/benjamin-franklins-thoughts-about-new-designers/</loc>
-    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hyunacademy.github.io/portfolio/case-study-one/</loc>
-    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hyunacademy.github.io/blog/designers-thoughts-about-mobile-ui/</loc>
-    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hyunacademy.github.io/blog/how-to-become-acreative-designer/</loc>
-    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hyunacademy.github.io/blog/new-designers-limitations/</loc>
-    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hyunacademy.github.io/blog/things-you-must-know-as-a-designer/</loc>
-    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hyunacademy.github.io/blog/world-most-famous-app-developers-and-designers/</loc>
-    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hyunacademy.github.io/blog/you-must-know-this-before-becoming-a-designer/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
   </url>
   
@@ -87,11 +52,11 @@
   </url>
   
   <url>
-    <loc>https://hyunacademy.github.io/contact/</loc>
+    <loc>https://hyunacademy.github.io/tags/</loc>
   </url>
   
   <url>
-    <loc>https://hyunacademy.github.io/tags/</loc>
+    <loc>https://hyunacademy.github.io/contact/</loc>
   </url>
   
 </urlset>

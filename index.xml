@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portio</title>
+    <title>현간호학원</title>
     <link>https://hyunacademy.github.io/</link>
-    <description>Recent content on Portio</description>
+    <description>Recent content on 현간호학원</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 13 Sep 2020 12:49:27 +0600</lastBuildDate><atom:link href="https://hyunacademy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>ko-kr</language>
+    <lastBuildDate>Mon, 11 Jan 2021 12:49:27 +0900</lastBuildDate><atom:link href="https://hyunacademy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2021년도 봄반 개강 안내</title>
+      <link>https://hyunacademy.github.io/blog/2021%EB%85%84%EB%8F%84-%EB%B4%84%EB%B0%98-%EA%B0%9C%EA%B0%95-%EC%95%88%EB%82%B4/</link>
+      <pubDate>Mon, 11 Jan 2021 12:49:27 +0900</pubDate>
+      
+      <guid>https://hyunacademy.github.io/blog/2021%EB%85%84%EB%8F%84-%EB%B4%84%EB%B0%98-%EA%B0%9C%EA%B0%95-%EC%95%88%EB%82%B4/</guid>
+      <description>현간호학원은 코로나19 단계별 방역지침에 따라 비대면 원격수업을 병행하고 있습니다.
+ 📆 1차 개강 예정일: 3월 15일 📆 2차 개강 예정일: 4월 중 교육 시간 및 개강 일정은 본원의 사정에 따라 변경될 수 있음을 알려드립니다.
+ 2021년도 봄반 1차 모집 요강 2021년도 봄반 2차는 4월 중 개강 예정입니다.
+지원 자격  고교 졸업 또는 동등 학력 이상이 필요합니다. (국가시험 응시자격) 과정의 취지에 맞게 취업이 목표로, 자격증 취득을 희망하셔야 합니다. 약 9개월의 여정이 필요합니다.</description>
+    </item>
+    
     <item>
       <title>Markdown Formatting Demo</title>
       <link>https://hyunacademy.github.io/blog/markdown-formatting-demo/</link>
@@ -52,83 +64,11 @@ This is italic text</description>
     </item>
     
     <item>
-      <title>Designer Conference at Florida 2020</title>
-      <link>https://hyunacademy.github.io/blog/designer-conference-at-florida-2020/</link>
-      <pubDate>Mon, 13 Jul 2020 13:06:26 +0600</pubDate>
-      
-      <guid>https://hyunacademy.github.io/blog/designer-conference-at-florida-2020/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Benjamin Franklins thoughts about new designers</title>
-      <link>https://hyunacademy.github.io/blog/benjamin-franklins-thoughts-about-new-designers/</link>
-      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      
-      <guid>https://hyunacademy.github.io/blog/benjamin-franklins-thoughts-about-new-designers/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
       <title>Case Study One</title>
       <link>https://hyunacademy.github.io/portfolio/case-study-one/</link>
       <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
       
       <guid>https://hyunacademy.github.io/portfolio/case-study-one/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Designers thoughts about mobile UI</title>
-      <link>https://hyunacademy.github.io/blog/designers-thoughts-about-mobile-ui/</link>
-      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      
-      <guid>https://hyunacademy.github.io/blog/designers-thoughts-about-mobile-ui/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>How to become acreative designer</title>
-      <link>https://hyunacademy.github.io/blog/how-to-become-acreative-designer/</link>
-      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      
-      <guid>https://hyunacademy.github.io/blog/how-to-become-acreative-designer/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>New designers limitations</title>
-      <link>https://hyunacademy.github.io/blog/new-designers-limitations/</link>
-      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      
-      <guid>https://hyunacademy.github.io/blog/new-designers-limitations/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Things you must know as a designer</title>
-      <link>https://hyunacademy.github.io/blog/things-you-must-know-as-a-designer/</link>
-      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      
-      <guid>https://hyunacademy.github.io/blog/things-you-must-know-as-a-designer/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>World&#39;s Most Famous App Developers and Designers</title>
-      <link>https://hyunacademy.github.io/blog/world-most-famous-app-developers-and-designers/</link>
-      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      
-      <guid>https://hyunacademy.github.io/blog/world-most-famous-app-developers-and-designers/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>You must know this before becoming a designer</title>
-      <link>https://hyunacademy.github.io/blog/you-must-know-this-before-becoming-a-designer/</link>
-      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      
-      <guid>https://hyunacademy.github.io/blog/you-must-know-this-before-becoming-a-designer/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
