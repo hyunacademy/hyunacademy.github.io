@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>병원코디네이터 on 현간호학원</title>
+    <link>https://hyun.academy/tags/%EB%B3%91%EC%9B%90%EC%BD%94%EB%94%94%EB%84%A4%EC%9D%B4%ED%84%B0/</link>
+    <description>Recent content in 병원코디네이터 on 현간호학원</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://hyun.academy/tags/%EB%B3%91%EC%9B%90%EC%BD%94%EB%94%94%EB%84%A4%EC%9D%B4%ED%84%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>병원 코디네이터</title>
+      <link>https://hyun.academy/blog/admission-hospital-coordinator/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0900</pubDate>
+      
+      <guid>https://hyun.academy/blog/admission-hospital-coordinator/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
