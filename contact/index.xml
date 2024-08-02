@@ -4,7 +4,8 @@
     <title>오시는 길 on 현간호학원</title>
     <link>https://hyun.academy/contact/</link>
     <description>Recent content in 오시는 길 on 현간호학원</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ko-kr</language><atom:link href="https://hyun.academy/contact/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <atom:link href="https://hyun.academy/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
