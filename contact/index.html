@@ -297,7 +297,7 @@
                   status.innerHTML = `
                     <div class='alert alert-success d-flex align-items-center' role='alert'>
                       <div><i class="las la-check la-lg me-2"></i></div><span>&nbsp;</span>
-                      <div>요청이 접수되었습니다. 빠른 시일 내에 연락드리겠습니다. 감사합니다.</div>
+                      <div>문의가 접수되었습니다. 빠른 시일 내에 연락드리겠습니다. 감사합니다.</div>
                     </div>
                   `;
                   form.reset();
@@ -306,14 +306,14 @@
                   status.innerHTML = `
                     <div class="alert alert-danger d-flex align-items-center" role="alert">
                       <div><i class="las la-exclamation-circle la-lg me-2"></i></div><span>&nbsp;</span>
-                      <div>요청 내용을 확인해 주세요.</div>
+                      <div>문의 사항을 확인해 주세요.</div>
                     </div>
                   `;
                 } else if (response.status >= 500) {
                   status.innerHTML = `
                     <div class='alert alert-danger d-flex align-items-center' role='alert'>
                       <div><i class="las la-exclamation-circle la-lg me-2"></i></div><span>&nbsp;</span>
-                      <div>서버 오류가 발생했습니다. 잠시 후 다시 시도해 주시거나, 문제가 지속되면 이메일로 요청해 주세요.</div>
+                      <div>서버 오류가 발생했습니다. 잠시 후 다시 시도해 주시거나, 문제가 지속되면 이메일, 전화, 또는 카카오톡으로 문의해 주세요.</div>
                     </div>
                   `;
                 }
@@ -321,7 +321,7 @@
                 status.innerHTML = `
                   <div class='alert alert-danger d-flex align-items-center' role='alert'>
                     <div><i class="las la-exclamation-circle la-lg me-2"></i></div><span>&nbsp;</span>
-                    <div>요청 접수에 실패했습니다. 잠시 후 다시 시도해 주시거나, 문제가 지속되면 이메일로 요청해 주세요.</div>
+                    <div>문의 접수에 실패했습니다. 잠시 후 다시 시도해 주시거나, 문제가 지속되면 이메일, 전화, 또는 카카오톡으로 문의해 주세요.</div>
                   </div>
                 `;
               }
