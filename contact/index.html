@@ -200,47 +200,138 @@
         <div class="contact-form-title">
           <h3>원하는 답변을 찾지 못하셨나요?</h3>
         </div>
-        <div class="contact-form-input">
-          <form id="contact-form" action="https://formspree.io/f/mgepdwba" method="POST">
-
-            <div class="form-row">
-              <div class="form-group col-md-6">
-                <input type="text" class="form-control" name="name" placeholder="이름" required />
-              </div>
-              <div class="form-group col-md-6">
-                <input type="tel" class="form-control" name="phone" placeholder="전화번호" required />
-              </div>
-              <div class="form-group col-md-12">
-                <input type="email" class="form-control" name="email" placeholder="이메일 주소" required />
-              </div>
-            </div>
-
-            <div class="form-row">
-              <div class="form-group col-md-12">
-                <textarea class="form-control" id="message" rows="6" name="message" placeholder="문의 내용"></textarea>
-                <div class="small">
-                  <small class="form-text text-muted">
-                    문의 접수 및 처리, 회신을 위해 개인정보를 수집 및 이용하며, 이를 위한 최소한의 개인정보이므로 동의를 해주셔야 처리가 가능합니다. 더 자세한 내용에 대해서는 <a href="https://hyun.academy/blog/terms-of-service-and-privacy-policy" target="_blank">현간호학원 개인정보처리방침</a>을 참고하시기 바랍니다.
-                  </small>
-                </div>
-              </div>
-            </div>
-
-            <div class="form-row">
-              <div class="form-group col-md-12">
-                <div class="form-check small">
-                  <input type="checkbox" class="form-check-input" name="agreement" id="form-submission-agreement" required />
-                  <label class="form-check-label" for="form-submission-agreement">
-                    개인정보 수집 및 이용에 동의합니다.
-                  </label>
-                </div>
-              </div>
-            </div>
-
-            <button type="submit" class="btn btn-primary btn-block btn-zoom" id="contact-form-button">문의 접수</button>
-            <p id="contact-form-status" class="mt-3"></p>
-          </form>
+        <div class="mt-3">
+          <p class="text-right font-italic"><span class="text-danger">*</span> 필수 입력 사항입니다.</p>
         </div>
+        <div class="contact-form-input">
+          <form id="contact-form" action="https://formspree.io/f/mgepdwba" method="POST" class="needs-validation" novalidate>
+            <div class="form-row">
+              <div class="form-group col-md-6">
+                <label for="name">이름 <span class="text-danger">*</span></label>
+                <input type="text" class="form-control" name="name" id="name" placeholder="이름" required />
+                <div class="invalid-feedback">이름을 입력해 주세요.</div>
+              </div>
+              <div class="form-group col-md-6">
+                <label for="phone">전화번호 <span class="text-danger">*</span></label>
+                <input type="tel" class="form-control" name="phone" id="phone" placeholder="전화번호" required />
+                <div class="invalid-feedback">전화번호를 입력해 주세요.</div>
+              </div>
+            </div>
+            
+            <div class="form-group">
+              <label for="email">이메일 주소 <span class="text-danger">*</span></label>
+              <input type="email" class="form-control" name="email" id="email" placeholder="이메일 주소" required />
+              <div class="invalid-feedback">유효한 이메일 주소를 입력해 주세요.</div>
+            </div>
+          
+            <div class="form-group">
+              <label for="message">문의 내용</label>
+              <textarea class="form-control" id="message" name="message" rows="6" placeholder="문의 내용"></textarea>
+            </div>
+            
+            <div class="form-group form-check">
+              <input type="checkbox" class="form-check-input" name="agreement" id="form-submission-agreement" required />
+              <label class="form-check-label" for="form-submission-agreement">
+                개인정보 수집 및 이용에 동의합니다. <span class="text-danger">*</span>
+              </label>
+              <div class="invalid-feedback">개인정보 수집 및 이용에 동의해 주세요.</div>
+            </div>
+          
+            <button type="submit" class="btn btn-primary btn-block btn-zoom">문의 접수</button>
+            <p id="form-message" class="mt-3"></p>
+          </form>          
+        </div>
+
+        <script>
+          (function() {
+            'use strict';
+            window.addEventListener('load', function() {
+              var forms = document.getElementsByClassName('needs-validation');
+              Array.prototype.filter.call(forms, function(form) {
+                form.addEventListener('submit', function(event) {
+                  if (form.checkValidity() === false) {
+                    event.preventDefault();
+                    event.stopPropagation();
+                    form.classList.add('was-validated');
+                    document.getElementById('form-message').innerHTML = `
+                      <div class="alert alert-danger" role="alert">문의 사항을 확인해 주세요.</div>
+                    `;
+                  } else {
+                    form.classList.remove('was-validated');
+                    document.getElementById('form-message').innerHTML = "";
+                  }
+                }, false);
+              });
+            }, false);
+          })();
+        </script>
+
+        <script>
+          document.addEventListener('DOMContentLoaded', function() {
+            var form = document.getElementById('contact-form');
+
+            async function handleFormSubmission(event) {
+              if (!form.checkValidity()) {
+                event.preventDefault();
+                event.stopPropagation();
+                return;
+              }
+
+              event.preventDefault();
+        
+              var status = document.getElementById("form-message");
+              var data = new FormData(event.target);
+
+              status.innerHTML = "";
+          
+              try {
+                var response = await fetch(event.target.action, {
+                  method: form.method,
+                  body: data,
+                  headers: {
+                    'Accept': 'application/json'
+                  }
+                });
+        
+                if (response.ok) {
+                  status.innerHTML = `
+                    <div class='alert alert-success d-flex align-items-center' role='alert'>
+                      <div><i class="las la-check la-lg me-2"></i></div><span>&nbsp;</span>
+                      <div>요청이 접수되었습니다. 빠른 시일 내에 연락드리겠습니다. 감사합니다.</div>
+                    </div>
+                  `;
+                  form.reset();
+                  form.classList.remove('was-validated');
+                } else if (response.status >= 400 && response.status < 500) {
+                  status.innerHTML = `
+                    <div class="alert alert-danger d-flex align-items-center" role="alert">
+                      <div><i class="las la-exclamation-circle la-lg me-2"></i></div><span>&nbsp;</span>
+                      <div>요청 내용을 확인해 주세요.</div>
+                    </div>
+                  `;
+                } else if (response.status >= 500) {
+                  status.innerHTML = `
+                    <div class='alert alert-danger d-flex align-items-center' role='alert'>
+                      <div><i class="las la-exclamation-circle la-lg me-2"></i></div><span>&nbsp;</span>
+                      <div>서버 오류가 발생했습니다. 잠시 후 다시 시도해 주시거나, 문제가 지속되면 이메일로 요청해 주세요.</div>
+                    </div>
+                  `;
+                }
+              } catch (error) {
+                status.innerHTML = `
+                  <div class='alert alert-danger d-flex align-items-center' role='alert'>
+                    <div><i class="las la-exclamation-circle la-lg me-2"></i></div><span>&nbsp;</span>
+                    <div>요청 접수에 실패했습니다. 잠시 후 다시 시도해 주시거나, 문제가 지속되면 이메일로 요청해 주세요.</div>
+                  </div>
+                `;
+              }
+            }
+
+            if (form) {
+              form.addEventListener("submit", handleFormSubmission);
+            }
+          });
+        </script>
 
         <style>
           hr.hr-text {
