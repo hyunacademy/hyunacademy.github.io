@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>호르몬 on 현간호학원</title>
-    <link>https://hyun.academy/tags/%ED%98%B8%EB%A5%B4%EB%AA%AC/</link>
+    <link>http://localhost:1313/tags/%ED%98%B8%EB%A5%B4%EB%AA%AC/</link>
     <description>Recent content in 호르몬 on 현간호학원</description>
     <generator>Hugo</generator>
     <language>ko-kr</language>
     <lastBuildDate>Sat, 04 Aug 2018 00:00:00 +0900</lastBuildDate>
-    <atom:link href="https://hyun.academy/tags/%ED%98%B8%EB%A5%B4%EB%AA%AC/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%ED%98%B8%EB%A5%B4%EB%AA%AC/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>비만대책과 다이어트 - 호르몬편</title>
-      <link>https://hyun.academy/blog/obesity-countermeasures-and-diet-hormones/</link>
+      <link>http://localhost:1313/blog/obesity-countermeasures-and-diet-hormones/</link>
       <pubDate>Sat, 04 Aug 2018 00:00:00 +0900</pubDate>
-      <guid>https://hyun.academy/blog/obesity-countermeasures-and-diet-hormones/</guid>
+      <guid>http://localhost:1313/blog/obesity-countermeasures-and-diet-hormones/</guid>
       <description>우리나라의 비만율이 상승하고 있다고 합니다.&#xA;남자 청소년 비만율의 경우에는 OECD 국가 평균치까지 넘어섰다고 하네요.&#xA;이와 같은 통계를 토대로 며칠 전 보건복지부에서 비만 대책을 발표해 이슈가 되고 있습니다.&#xA;하여 이 글에서 간략하게 비만에 대해 알아보려고 합니다. 많은 분들이 한 번 쯤은 다이어트를 시도해 보셨을 거라고 생각하는데요.&#xA;저는 개인적으로 다이어트가 정말 어려운 것 같습니다.&#xA;저도 그렇지만 주변 얘기를 들어보면 요요현상으로 많이 실패하시는 것 같은데,&#xA;왜 그런 걸까요?&#xA;인슐린은 췌장에서 분비되어 혈당을 조절하며, 렙틴은 지방 세포에서 분비되어 에너지 수준을 모니터하고, 오렉신은 하이포달러무스에서 분비되어 배고픔을 유발하며, 그렐린은 빈 위에서 분비되어 음식 섭취를 증가시킵니다.</description>
     </item>
   </channel>

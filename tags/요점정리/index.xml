@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>요점정리 on 현간호학원</title>
-    <link>https://hyun.academy/tags/%EC%9A%94%EC%A0%90%EC%A0%95%EB%A6%AC/</link>
+    <link>http://localhost:1313/tags/%EC%9A%94%EC%A0%90%EC%A0%95%EB%A6%AC/</link>
     <description>Recent content in 요점정리 on 현간호학원</description>
     <generator>Hugo</generator>
     <language>ko-kr</language>
     <lastBuildDate>Sat, 29 Jul 2017 00:00:00 +0900</lastBuildDate>
-    <atom:link href="https://hyun.academy/tags/%EC%9A%94%EC%A0%90%EC%A0%95%EB%A6%AC/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%EC%9A%94%EC%A0%90%EC%A0%95%EB%A6%AC/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>심첨맥박(박동) 청진 위치</title>
-      <link>https://hyun.academy/blog/how-to-identify-apex-beat/</link>
+      <link>http://localhost:1313/blog/how-to-identify-apex-beat/</link>
       <pubDate>Sat, 29 Jul 2017 00:00:00 +0900</pubDate>
-      <guid>https://hyun.academy/blog/how-to-identify-apex-beat/</guid>
+      <guid>http://localhost:1313/blog/how-to-identify-apex-beat/</guid>
       <description>심첨맥박은 어디에 위치하고 있으며, 그 박동을 청진하려면 어느 위치에 청진기를 대야 할까요?&#xA;위 그림과 같이 심첨(심장 끝)1은 좌측쇄골중간선과 제5늑간2(다섯 번째 늑간)이 수직으로 만나는 지점에 보통 위치하고 있습니다. 실무에서는 좌측 유두를 기준으로 손가락 두 마디 정도 아래에서 바로 청진을 시도하기도 합니다.&#xA;어린이의 경우에는 보통 좌측 유두와 제4늑간이 수직으로 만나는 지점에서 청진이 가능합니다.&#xA;심장의 밑부분을 이루는 왼쪽 심실에서 앞쪽으로 내민 뾰족한 끝 부분&amp;#160;&amp;#x21a9;&amp;#xfe0e;&#xA;흉곽을 구성하는 늑골3과 늑골의 사이&amp;#160;&amp;#x21a9;&amp;#xfe0e;&#xA;가슴을 구성하는 뼈&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
     </item>
   </channel>

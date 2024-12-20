@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>병원코디네이터 on 현간호학원</title>
-    <link>https://hyun.academy/tags/%EB%B3%91%EC%9B%90%EC%BD%94%EB%94%94%EB%84%A4%EC%9D%B4%ED%84%B0/</link>
+    <link>http://localhost:1313/tags/%EB%B3%91%EC%9B%90%EC%BD%94%EB%94%94%EB%84%A4%EC%9D%B4%ED%84%B0/</link>
     <description>Recent content in 병원코디네이터 on 현간호학원</description>
     <generator>Hugo</generator>
     <language>ko-kr</language>
     <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0900</lastBuildDate>
-    <atom:link href="https://hyun.academy/tags/%EB%B3%91%EC%9B%90%EC%BD%94%EB%94%94%EB%84%A4%EC%9D%B4%ED%84%B0/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%EB%B3%91%EC%9B%90%EC%BD%94%EB%94%94%EB%84%A4%EC%9D%B4%ED%84%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>병원 코디네이터</title>
-      <link>https://hyun.academy/blog/admission-hospital-coordinator/</link>
+      <link>http://localhost:1313/blog/admission-hospital-coordinator/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0900</pubDate>
-      <guid>https://hyun.academy/blog/admission-hospital-coordinator/</guid>
+      <guid>http://localhost:1313/blog/admission-hospital-coordinator/</guid>
       <description>입학 안내 병원코디네이터 자격 취득 과정 참여를 고민 중이시거나 결정하셨나요?&#xA;입학 안내사항도 한번 읽어보시기 바랍니다.&#xA;병원코디네이터 과정 21세기 신 유망직종 중 하나인 병원코디네이터는 빠르게 변화하고 있는 의료서비스에 대한 요구 상승과 함께 없어서는 안될 존재로 부각되고 있습니다.&#xA;의사나 간호사가 병원에서 챙기기 힘든 병원의 이미지 개선같이 전반적인 서비스를 전문적으로 담당합니다.&#xA;※ 현재 현간호학원 학생들에게만 무료 수강 혜택!&#xA;병원코디네이터란? 고객상담, 홍보, CS관리 및 기획, 환자의 사후관리, 병원의 이미지 개선과같이 전반적인 서비스를 전문적으로 담당하는 역할</description>
     </item>
   </channel>
