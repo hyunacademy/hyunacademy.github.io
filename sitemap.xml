@@ -2,19 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hyun.academy/blog/2025-job-skill-development-award/</loc>
-    <lastmod>2025-09-25T00:00:00+09:00</lastmod>
-  </url><url>
     <loc>https://hyun.academy/categories/</loc>
-    <lastmod>2025-09-25T00:00:00+09:00</lastmod>
+    <lastmod>2026-08-10T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://hyun.academy/tags/</loc>
-    <lastmod>2025-09-25T00:00:00+09:00</lastmod>
+    <lastmod>2026-08-10T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://hyun.academy/tags/%EA%B0%84%ED%98%B8%EC%A1%B0%EB%AC%B4%EC%82%AC/</loc>
+    <lastmod>2026-08-10T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://hyun.academy/blog/admission-nurse-aide/</loc>
+    <lastmod>2026-08-10T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://hyun.academy/tags/%EA%B3%BC%EC%A0%95/</loc>
+    <lastmod>2026-08-10T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://hyun.academy/categories/%EB%B8%94%EB%A1%9C%EA%B7%B8/</loc>
-    <lastmod>2025-09-25T00:00:00+09:00</lastmod>
+    <lastmod>2026-08-10T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://hyun.academy/blog/</loc>
+    <lastmod>2026-08-10T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://hyun.academy/tags/%EC%95%88%EB%82%B4/</loc>
+    <lastmod>2026-08-10T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://hyun.academy/tags/%EC%9E%85%ED%95%99/</loc>
+    <lastmod>2026-08-10T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://hyun.academy/</loc>
+    <lastmod>2026-08-10T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://hyun.academy/blog/2025-job-skill-development-award/</loc>
     <lastmod>2025-09-25T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://hyun.academy/tags/%EC%88%98%EC%83%81/</loc>
@@ -23,13 +41,7 @@
     <loc>https://hyun.academy/tags/%ED%91%9C%EC%B0%BD%EC%9E%A5/</loc>
     <lastmod>2025-09-25T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://hyun.academy/</loc>
-    <lastmod>2025-09-25T00:00:00+09:00</lastmod>
-  </url><url>
     <loc>https://hyun.academy/tags/%EC%8B%A4%EB%AC%B4/</loc>
-    <lastmod>2024-03-15T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://hyun.academy/tags/%EC%95%88%EB%82%B4/</loc>
     <lastmod>2024-03-15T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://hyun.academy/tags/%EC%A3%BC%EC%82%AC/</loc>
@@ -62,22 +74,10 @@
     <loc>https://hyun.academy/tags/%EA%B5%AD%EA%B0%80%EC%8B%9C%ED%97%98/</loc>
     <lastmod>2022-01-06T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://hyun.academy/tags/%EA%B0%84%ED%98%B8%EC%A1%B0%EB%AC%B4%EC%82%AC/</loc>
-    <lastmod>2022-01-01T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://hyun.academy/blog/admission-nurse-aide/</loc>
-    <lastmod>2022-01-01T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://hyun.academy/tags/%EA%B3%BC%EC%A0%95/</loc>
-    <lastmod>2022-01-01T00:00:00+09:00</lastmod>
-  </url><url>
     <loc>https://hyun.academy/blog/admission-hospital-coordinator/</loc>
     <lastmod>2022-01-01T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://hyun.academy/tags/%EB%B3%91%EC%9B%90%EC%BD%94%EB%94%94%EB%84%A4%EC%9D%B4%ED%84%B0/</loc>
-    <lastmod>2022-01-01T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://hyun.academy/tags/%EC%9E%85%ED%95%99/</loc>
     <lastmod>2022-01-01T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://hyun.academy/blog/admission/</loc>
