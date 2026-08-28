@@ -2,11 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://hyun.academy/blog/2026-award-7-consecutive-years/</loc>
+    <lastmod>2026-08-21T00:00:00+09:00</lastmod>
+  </url><url>
     <loc>https://hyun.academy/categories/</loc>
-    <lastmod>2026-08-10T00:00:00+09:00</lastmod>
+    <lastmod>2026-08-21T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://hyun.academy/tags/</loc>
-    <lastmod>2026-08-10T00:00:00+09:00</lastmod>
+    <lastmod>2026-08-21T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://hyun.academy/tags/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/</loc>
+    <lastmod>2026-08-21T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://hyun.academy/categories/%EB%B8%94%EB%A1%9C%EA%B7%B8/</loc>
+    <lastmod>2026-08-21T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://hyun.academy/blog/</loc>
+    <lastmod>2026-08-21T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://hyun.academy/</loc>
+    <lastmod>2026-08-21T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://hyun.academy/tags/%EA%B0%84%ED%98%B8%EC%A1%B0%EB%AC%B4%EC%82%AC/</loc>
     <lastmod>2026-08-10T00:00:00+09:00</lastmod>
@@ -17,19 +32,10 @@
     <loc>https://hyun.academy/tags/%EA%B3%BC%EC%A0%95/</loc>
     <lastmod>2026-08-10T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://hyun.academy/categories/%EB%B8%94%EB%A1%9C%EA%B7%B8/</loc>
-    <lastmod>2026-08-10T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://hyun.academy/blog/</loc>
-    <lastmod>2026-08-10T00:00:00+09:00</lastmod>
-  </url><url>
     <loc>https://hyun.academy/tags/%EC%95%88%EB%82%B4/</loc>
     <lastmod>2026-08-10T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://hyun.academy/tags/%EC%9E%85%ED%95%99/</loc>
-    <lastmod>2026-08-10T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://hyun.academy/</loc>
     <lastmod>2026-08-10T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://hyun.academy/blog/2025-job-skill-development-award/</loc>
@@ -57,9 +63,6 @@
     <lastmod>2023-12-06T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://hyun.academy/blog/medal-of-excellence/</loc>
-    <lastmod>2022-01-10T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://hyun.academy/tags/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/</loc>
     <lastmod>2022-01-10T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://hyun.academy/tags/%EA%B5%AD%EB%B9%84/</loc>
